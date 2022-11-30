@@ -1,4 +1,4 @@
-# NLW E-Sports - Backend
+# NLW E-Sports - Server
 
 Final NLW project promoted by [Rocketseat](https://rocketseat.com.br/).
 
