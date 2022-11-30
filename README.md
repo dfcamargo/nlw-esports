@@ -1,12 +1,12 @@
 # NLW E-Sports
 
 Final NLW project promoted by [Rocketseat](https://rocketseat.com.br/). 
-The challenge was to develop a gamer connect plataform. The players post ads with base information about your favorite game, about your playing time, 
+The challenge was to develop a gamer connect platform. The players post ads with base information about your favorite game, about your playing time, 
 and your Discord to connect with other players at the time of their match.
 
-The project is divided into 3 stack. Each one with their own responsability:
+The project is divided into 3 stacks. Each one with their own responsibility:
 
-- **Server:** API for controlling and manging data and business rules.
+- **Server:** API for controlling and managing data and business rules.
 - **Web:** Web layer for publishing new ads.
 - **Mobile:** Mobile layer to find out ads and connect with players.
 
